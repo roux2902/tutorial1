@@ -5,7 +5,7 @@ int main()
 {
 	printf("hello git!\n");
 	printf("wohooooo\n");
-	printf("in master\n");
+	printf("in master...\n");
 
 	return 0;
 }
