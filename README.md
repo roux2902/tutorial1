@@ -1,2 +1,2 @@
 this is a test of git...
-gitgitgit
+gitgitgit eat me
